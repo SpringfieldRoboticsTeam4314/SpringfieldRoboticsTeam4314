@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SpringfieldRoboticsTeam4314
-- 👀 I’m interested in robots
-- 🌱 I’m currently learning how robot
-- 💞️ I’m looking to: collaborate on robot
-- 📫 How to reach me: please don't
+
+🌐 Website:
+https://sites.google.com/view/team4314/
+Facebook:
+https://www.facebook.com/profile.php?id=61567145242365
 
 <!---
 SpringfieldRoboticsTeam4314/SpringfieldRoboticsTeam4314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
